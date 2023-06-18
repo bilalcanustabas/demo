@@ -1,0 +1,2 @@
+## LICENSE
+# BENİM LİSANSIM
