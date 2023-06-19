@@ -6,4 +6,4 @@ some change
 
 on branch
 
-SOME TEXT
+this cause trouble
